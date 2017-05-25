@@ -1,0 +1,17 @@
+body,ul,li{
+	margin:0;
+	padding: 0;
+}
+ul{width: 760px;
+	list-style: none;
+}
+li{
+	width:190px;
+	height: 269px;
+	float:left;
+}
+.banner{
+	width:570px;
+	height: 269px;
+	overflow: hidden;
+}

@@ -1,0 +1,18 @@
+body,ul,li{
+	margin:0;
+	padding: 0;
+}
+ul{
+	list-style: none;
+	position: absolute;
+	left: 0;
+}
+li{
+	float:left;
+}
+.banner{
+	width:760px;
+	height: 269px;
+	position: absolute;
+	overflow: hidden;
+}
